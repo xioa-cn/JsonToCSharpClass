@@ -20,9 +20,9 @@
 目前，`JsonToCSharpClass` 需要从源代码编译：
 1. 克隆仓库到本地：
    ```bash
-  
+       git clone https://github.com/xioa-cn/JsonToCSharpClass.git
    ```
-2. 使用 Visual Studio 2019 或更高版本打开解决方案文件。
+2. 使用 Visual Studio 2022 或更高版本打开解决方案文件。
 3. 构建解决方案并运行。
 
 ### 使用方法
